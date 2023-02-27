@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    background-color: rgb(119, 58, 1);
+    font-family: 'Times New Roman', Times, serif;
+    color: orange;
+}
+
+img {
+    height: auto;
+    width: 500px;
+    text-align: center;
+}
+
+.lasagna-recipe,
+.cookie-recipe,
+.brownie-recipe {
+    font-size: 28px;
+    background-color: brown;
+    color: orange;
+}
+
+body {
+    background-color: rgb(223, 162, 105);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
